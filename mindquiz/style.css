@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+
+#question{
+    margin: auto;
+    margin-bottom: 50px;
+    width: 1000px;
+    border-bottom: dotted 8px red;
+}
+
+#options{
+    margin: auto;
+    margin-bottom: 50px;
+    width: 800px;
+    border: solid 5px black;
+    padding: 15px 0px 0px 1px;
+    background-color: rgb(45, 248, 221);
+}
+#startButton{
+    font-size: 36px;
+}
